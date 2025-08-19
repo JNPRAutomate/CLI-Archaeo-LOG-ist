@@ -8,8 +8,8 @@ Usage:
 Sample output:
 
 ```
-python command_log_parser.py tmp-cli-logs/ output.txt
-cat output.txt
+> python command_log_parser.py tmp-cli-logs/ output.txt
+> cat output.txt
 
 Here is a total list of commands and how many times they were used:
   - 'show system errors active detail' ran 15 time(s)
